@@ -1,0 +1,6 @@
+Welcome to our VR Zoo! Head on in and enjoy the attraction. 
+You'll be able to play 5 minigames in the zoo by talking to tour guides standing in front of specific animal exhibits. 
+You can play the minigame by approaching them and they'll start talking to you. 
+If you continue talking with the tour guide, you will eventually start the minigame.
+If you wish to not play the minigame, simply walk away from the tour guide. 
+Enjoy! 

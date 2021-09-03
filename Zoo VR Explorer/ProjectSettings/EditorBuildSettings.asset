@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Zoo_Map.unity
+    guid: 1aadf8aea9e3b490fba9e06bb625a77d
+  - enabled: 1
+    path: Assets/Scenes/Macaw.unity
+    guid: 05b68ba4287611449bb9f3813f87cb75
+  - enabled: 1
+    path: Assets/Scenes/Monkey.unity
+    guid: d493335e503bd4926808758b2e3920fd
+  - enabled: 1
+    path: Assets/Scenes/Sloth.unity
+    guid: 239ce99e671624ff4b7c05bfba6b9906
+  - enabled: 1
+    path: Assets/Scenes/Butterfly.unity
+    guid: 95f6b5c05b3344b2e80324c4756feb17
+  - enabled: 1
+    path: Assets/Scenes/Tiger.unity
+    guid: 1397b0f58cdd24d7cb096944692c5b44
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 7662dd546a26b0348beb04d1e5809a33, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 035a204e8198060449ec69ae332848fe, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 77269ec80d25b9045abf1051c4d7c5a3, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 07653c9ca58ad4442a3394402e183cda, type: 2}

@@ -1,0 +1,6 @@
+Hello this is some sample text. You can press a button (B on keyboard, left trigger on VR) to go to the next line. 
+Or you can just wait a few seconds for it to scroll on its own. 
+Another neat feature is that you can press the primary button while a text is scrolling to just complete the text automatically. 
+You'd normally want to use it on super long sentences like this one where the words just go on and on and on and on and on and on and never seem to end and just fill up the textbox. 
+That's about it! 
+Once the script reads through all of the text file's lines, the text box will disappear like this!

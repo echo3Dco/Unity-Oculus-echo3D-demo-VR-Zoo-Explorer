@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: d9979e9ec1784f8418ec3118f7edb3b2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Female
+    100002: //RootNode
+    100004: Head 1 Female
+    100006: Head 1 Female Hair 1
+    100008: Head 1 Female Hair 2
+    100010: LowManHead
+    100012: LowManHead_end
+    100014: LowManHips
+    100016: LowManLeftArm
+    100018: LowManLeftFoot
+    100020: LowManLeftForeArm
+    100022: LowManLeftHand
+    100024: LowManLeftHandIndex1
+    100026: LowManLeftHandIndex2
+    100028: LowManLeftHandIndex2_end
+    100030: LowManLeftHandMiddle1
+    100032: LowManLeftHandMiddle2
+    100034: LowManLeftHandMiddle2_end
+    100036: LowManLeftHandPinky1
+    100038: LowManLeftHandPinky2
+    100040: LowManLeftHandPinky2_end
+    100042: LowManLeftHandRing1
+    100044: LowManLeftHandRing2
+    100046: LowManLeftHandRing2_end
+    100048: LowManLeftHandThumb1
+    100050: LowManLeftHandThumb1_end
+    100052: LowManLeftLeg
+    100054: LowManLeftShoulder
+    100056: LowManLeftToeBase
+    100058: LowManLeftToeBase_end
+    100060: LowManLeftUpLeg
+    100062: LowManNeck
+    100064: LowManRightArm
+    100066: LowManRightFoot
+    100068: LowManRightForeArm
+    100070: LowManRightHand
+    100072: LowManRightHandIndex1
+    100074: LowManRightHandIndex2
+    100076: LowManRightHandIndex2_end
+    100078: LowManRightHandMiddle1
+    100080: LowManRightHandMiddle2
+    100082: LowManRightHandMiddle2_end
+    100084: LowManRightHandPinky1
+    100086: LowManRightHandPinky2
+    100088: LowManRightHandPinky2_end
+    100090: LowManRightHandRing1
+    100092: LowManRightHandRing2
+    100094: LowManRightHandRing2_end
+    100096: LowManRightHandThumb1
+    100098: LowManRightHandThumb1_end
+    100100: LowManRightLeg
+    100102: LowManRightShoulder
+    100104: LowManRightToeBase
+    100106: LowManRightToeBase_end
+    100108: LowManRightUpLeg
+    100110: LowManSpine
+    100112: LowManSpine1
+    100114: LowManSpine2
+    100116: Pants Female
+    100118: Shorts Female
+    100120: Torso Female
+    100122: Torso Female Short Sleeves
+    400000: Female
+    400002: //RootNode
+    400004: Head 1 Female
+    400006: Head 1 Female Hair 1
+    400008: Head 1 Female Hair 2
+    400010: LowManHead
+    400012: LowManHead_end
+    400014: LowManHips
+    400016: LowManLeftArm
+    400018: LowManLeftFoot
+    400020: LowManLeftForeArm
+    400022: LowManLeftHand
+    400024: LowManLeftHandIndex1
+    400026: LowManLeftHandIndex2
+    400028: LowManLeftHandIndex2_end
+    400030: LowManLeftHandMiddle1
+    400032: LowManLeftHandMiddle2
+    400034: LowManLeftHandMiddle2_end
+    400036: LowManLeftHandPinky1
+    400038: LowManLeftHandPinky2
+    400040: LowManLeftHandPinky2_end
+    400042: LowManLeftHandRing1
+    400044: LowManLeftHandRing2
+    400046: LowManLeftHandRing2_end
+    400048: LowManLeftHandThumb1
+    400050: LowManLeftHandThumb1_end
+    400052: LowManLeftLeg
+    400054: LowManLeftShoulder
+    400056: LowManLeftToeBase
+    400058: LowManLeftToeBase_end
+    400060: LowManLeftUpLeg
+    400062: LowManNeck
+    400064: LowManRightArm
+    400066: LowManRightFoot
+    400068: LowManRightForeArm
+    400070: LowManRightHand
+    400072: LowManRightHandIndex1
+    400074: LowManRightHandIndex2
+    400076: LowManRightHandIndex2_end
+    400078: LowManRightHandMiddle1
+    400080: LowManRightHandMiddle2
+    400082: LowManRightHandMiddle2_end
+    400084: LowManRightHandPinky1
+    400086: LowManRightHandPinky2
+    400088: LowManRightHandPinky2_end
+    400090: LowManRightHandRing1
+    400092: LowManRightHandRing2
+    400094: LowManRightHandRing2_end
+    400096: LowManRightHandThumb1
+    400098: LowManRightHandThumb1_end
+    400100: LowManRightLeg
+    400102: LowManRightShoulder
+    400104: LowManRightToeBase
+    400106: LowManRightToeBase_end
+    400108: LowManRightUpLeg
+    400110: LowManSpine
+    400112: LowManSpine1
+    400114: LowManSpine2
+    400116: Pants Female
+    400118: Shorts Female
+    400120: Torso Female
+    400122: Torso Female Short Sleeves
+    2100000: Skin 1
+    2100002: Hair
+    2100004: Skin 1.001
+    2100006: Denim
+    2100008: Shirt 1
+    2100010: Boots.001
+    2100012: Shirt 1.001
+    4300000: Head 1 Female Hair 1
+    4300002: Head 1 Female
+    4300004: Shorts Female
+    4300006: Head 1 Female Hair 2
+    4300008: Pants Female
+    4300010: Torso Female
+    4300012: Torso Female Short Sleeves
+    9500000: //RootNode
+    13700000: Head 1 Female
+    13700002: Head 1 Female Hair 1
+    13700004: Head 1 Female Hair 2
+    13700006: Pants Female
+    13700008: Shorts Female
+    13700010: Torso Female
+    13700012: Torso Female Short Sleeves
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
