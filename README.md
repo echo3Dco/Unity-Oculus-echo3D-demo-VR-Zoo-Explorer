@@ -1,5 +1,5 @@
 # echoAR Zoo VR Explorer Unity
-A VR experience of zoo with echoAR and Oculus Quest in Unity
+A VR experience of a zoo with echoAR and Oculus Quest in Unity
 
 ## Register
 Don't have an API key? Make sure to register for FREE at [echoAR](https://console.echoar.xyz/#/auth/register).
