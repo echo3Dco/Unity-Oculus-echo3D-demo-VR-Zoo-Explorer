@@ -1,30 +1,30 @@
-# echoAR Zoo VR Explorer Unity
-A VR experience of a zoo with echoAR and Oculus Quest in Unity
+# Unity-Oculus-echo3D-demo-VR-Zoo-Explorer
+A VR experience of a zoo with echo3D and Oculus Quest in Unity
 
 ## Register
-Don't have an API key? Make sure to register for FREE at [echoAR](https://console.echoar.xyz/#/auth/register).
+Don't have an API key? Make sure to register for FREE at [echo3D](https://console.echo3D.co/#/auth/register).
 
 ## Setup
-* Clone the [echoAR-Zoo-VR-Explorer](https://github.com/echoARxyz/echoAR-VR-Zoo-Explorer-Unity).
+* Clone the [Unity-Oculus-echo3D-demo-VR-Zoo-Explorer](https://github.com/echo3Dco/Unity-Oculus-echo3D-demo-VR-Zoo-Explorer/).
 
 ### Echo API Setup
-* [Set the API key](https://docs.echoar.xyz/unity/using-the-sdk) in the `echoAR.cs` script inside the `echoAR\echoAR.prefab` using the the Inspector.
-* [Add the 3D model](https://docs.echoar.xyz/quickstart/add-a-3d-model) from the 'Models' folder to the console in corresponding scenes. 
-* Each folder in the Models folder should be a new project (API key) in your echoAR console. So for example, there would be an API key holding all of the models from the Overworld Models folder, another API key holding all of the models from the Tiger Models folder, another API key holding all of the models from the Macaw Models folder, etc.
+* [Set the API key](https://docs.echo3D.co/unity/using-the-sdk) in the `echoAR.cs` script inside the `echoAR\echoAR.prefab` using the the Inspector.
+* [Add the 3D model](https://docs.echo3D.co/quickstart/add-a-3d-model) from the 'Models' folder to the console in corresponding scenes. 
+* Each folder in the Models folder should be a new project (API key) in your echo3D console. So for example, there would be an API key holding all of the models from the Overworld Models folder, another API key holding all of the models from the Tiger Models folder, another API key holding all of the models from the Macaw Models folder, etc.
 * If a model does not have a corresponding CSV file, it means that there is no metadata to input for that model. Hence, you can skip adding any metadata to that model. Otherwise, copy the metadata from each model's corresponding CSV file in the folder. 
-* We recommend to add videos and audios from `Models\VideosAudios` to a seperate key [Load a Key](https://docs.echoar.xyz/web-console/load-a-key).
+* We recommend to add videos and audios from `Models\VideosAudios` to a seperate key [Load a Key](https://docs.echo3D.co/web-console/load-a-key).
 * Set the Video API key inside the `Prefabs\echoAR (video).prefab` using the the Inspector.
-* [Add the corresponding metadata](https://docs.echoar.xyz/web-console/manage-pages/data-page/how-to-add-data#adding-metadata) listed in the `Models` folder.
+* [Add the corresponding metadata](https://docs.echo3D.co/web-console/manage-pages/data-page/how-to-add-data#adding-metadata) listed in the `Models` folder.
 * For videos and audios project, make sure all models' metadata have a "Index" key with a special non-negative integer value.
 
 ## Build & Run
-* [Build and run the application](https://docs.echoar.xyz/unity/adding-ar-capabilities#4-build-and-run-the-ar-application) in VR.
+* [Build and run the application](https://docs.echo3D.co/unity/adding-ar-capabilities#4-build-and-run-the-ar-application) in VR.
 
 ## Learn more
-Refer to our [documentation](https://docs.echoar.xyz/unity/) to learn more about how to use Unity and echoAR.
+Refer to our [documentation](https://docs.echo3D.co/unity/) to learn more about how to use Unity and echo3D.
 
 ## Support
-Feel free to reach out at [support@echoAR.xyz](mailto:support@echoAR.xyz) or join our [support channel on Slack](https://join.slack.com/t/echoar/shared_invite/enQtNTg4NjI5NjM3OTc1LWU1M2M2MTNlNTM3NGY1YTUxYmY3ZDNjNTc3YjA5M2QyNGZiOTgzMjVmZWZmZmFjNGJjYTcxZjhhNzk3YjNhNjE). 
+Feel free to reach out at [support@echo3D.co](mailto:support@echo3D.co) or join our [support channel on Slack](https://go.echo3D.co/join). 
 
 ## Screenshots
 ![Zoo Map screenshot](/Screenshots/ZooMap.png)
@@ -34,8 +34,8 @@ Feel free to reach out at [support@echoAR.xyz](mailto:support@echoAR.xyz) or joi
 ![Monkey Scene screenshot](/Screenshots/monkey.png)
 ![Sloth Scene screenshot](/Screenshots/sloth.png)
 ![Tiger Scene screenshot](/Screenshots/tiger.png)
-![echoAR console screenshot for content](/Screenshots/model.png)
-![echoAR console screenshot for metadata](/Screenshots/metadata.png)
+![echo3D console screenshot for content](/Screenshots/model.png)
+![echo3D console screenshot for metadata](/Screenshots/metadata.png)
 
 ## Resources and Reference
 ### XR Rig Setup
@@ -63,7 +63,4 @@ Feel free to reach out at [support@echoAR.xyz](mailto:support@echoAR.xyz) or joi
 * [Lujia Wang](https://lugawang.com/)
 * [Philip Park](https://philippark0203.itch.io/)
 * Jessica J Chen
-
-August 2021 @EchoAR Inc.
-
 
